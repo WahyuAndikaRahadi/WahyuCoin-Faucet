@@ -411,9 +411,9 @@ const App = () => {
                 <li>Standar: ERC20</li>
                 <li>
                   Alamat Kontrak:
-                  <a href="https://sepolia.etherscan.io/address/0x2B13aB562230864eF16cd65237129eFD4FDeFcd4" target="_blank" rel="noopener noreferrer"
+                  <a href="https://sepolia.etherscan.io/address/0x542aeb92a64dA6e48137a5b3120Fa3B2A7846F88" target="_blank" rel="noopener noreferrer"
                     className="underline text-blue-400 hover:text-blue-300 break-all">
-                    0x2B13aB562230864eF16cd65237129eFD4FDeFcd4
+                    0x542aeb92a64dA6e48137a5b3120Fa3B2A7846F88
                   </a>
                 </li>
               </ul>
